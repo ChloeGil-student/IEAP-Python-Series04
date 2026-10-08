@@ -5,11 +5,11 @@ Starting from a known 3D sinusoidal signal, we estimate its time derivative with
 
 ## Group
 
-| Member | GitHub branch | Work section
-|---|---|
-| GILLES Chloé | `Chloe` | 1. Generate a known signal; 2. Estimate the time derivative of the signal
-| DELFIN Elouan | `Elouan-branch` | 3. Estimate the tangential speed of the signal
-| WAHEED Ayesha | `Ayesha` | 4. Create an interactive plot with the plotly library
+| Member | GitHub branch | Work section |
+|---|---|---|
+| GILLES Chloé | `Chloe` | 1. Generate a known signal; 2. Estimate the time derivative of the signal |
+| DELFIN Elouan | `Elouan-branch` | 3. Estimate the tangential speed of the signal |
+| WAHEED Ayesha | `Ayesha` | 4. Create an interactive plot with the plotly library |
 
 
 ## Repository content
